@@ -1,3 +1,3 @@
 # hh-resume-analysis
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+Данные исследований: [[https://drive.google.com/drive/folders/1dHwpo3FHsecKPjJT5d8q1uzr_OW7UfhK?usp=drive_link]]
