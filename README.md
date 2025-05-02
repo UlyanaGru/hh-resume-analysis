@@ -7,7 +7,7 @@
 ## Графики
 
 ### Гистограмма возраста
-![Гистограмма](hist_age.html)
+![Гистограмма](hist_age.png)
 
 ### Box-plot возраста
-![Box-plot](box_age.html)
+![Box-plot](box_age.png)
